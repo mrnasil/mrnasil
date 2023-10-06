@@ -13,7 +13,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnasil&layout=compact&theme=dark&show_icons=true&bg_color=0d1117&hide_border">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnasil&layout=compact&theme=dark&show_icons=true&bg_color=0d1117&hide_border">
-  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnasil&layout=compact&theme=dark&show_icons=true&bg_color=0d1117&hide_border">
+  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnasil&layout=compact&theme=dark&show_icons=true&bg_color=0d1117&hide_border=true">
 </picture>
 
 
