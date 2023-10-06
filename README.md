@@ -2,15 +2,19 @@
 
 
 
-<!-- [![Twitter](https://api.iconify.design/line-md:twitter-x-alt.svg)](https://twitter.com/farukarigun)
-[![Instagram](https://api.iconify.design/line-md:instagram.svg)](https://instagram.com/farukarigun) -->
 
-
+<a href="https://x.com/faruk_arigun" target="_blank">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/line-md:twitter-x-alt.svg?color=%23ffffff" style="width:50px;">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/line-md:twitter-x-alt.svg?color=%23ffffff" style="width:50px;">
+  <img alt="Faruk ARIGÜN X Profile" src="https://api.iconify.design/line-md:twitter-x-alt.svg?color=%23ffffff" style="width:50px;">
+</picture>
+</a>
 <a href="https://instagram.com/faruk_arigun" target="_blank">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/line-md:instagram.svg?color=%23ffffff" style="width:50px;">
   <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/line-md:instagram.svg?color=%23ffffff" style="width:50px;">
-  <img alt="github contribution grid snake animation" src="https://api.iconify.design/line-md:instagram.svg?color=%23ffffff" style="width:50px;">
+  <img alt="Faruk ARIGÜN Instagram Profile" src="https://api.iconify.design/line-md:instagram.svg?color=%23ffffff" style="width:50px;">
 </picture>
 </a>
 
