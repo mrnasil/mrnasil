@@ -7,7 +7,14 @@
 </picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnasil&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnasil&layout=compact&theme=dark&show_icons=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnasil&layout=compact&theme=dark&show_icons=true&bg_color=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnasil&layout=compact&theme=dark&show_icons=true&bg_color=0d1117">
+  <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnasil&layout=compact&theme=dark&show_icons=true&bg_color=0d1117">
+</picture>
 
 
 <!--
