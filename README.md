@@ -44,7 +44,7 @@
 </details>
 </div>
 
-
+[![mrnasil Nuxter profile](https://nuxters.nuxt.com/card/mrnasil/og.png)](https://nuxters.nuxt.com/mrnasil)
 
 <!--
 **mrnasil/mrnasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
